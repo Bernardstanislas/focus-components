@@ -9,7 +9,7 @@ module.exports = {
   search: require('./search'),
   mixin: require('./mixin'),
   list: require('./list'),
-  // Modif 2
+  // Modif
   /**
    * Helper to creates a detail page.
    * @param {object} config - The page configuration.
